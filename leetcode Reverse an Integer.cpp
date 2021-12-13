@@ -1,6 +1,3 @@
-#include <bits/stdc++.h>
- 
-using namespace std;
 
 //Reverse a Number
 
@@ -23,16 +20,6 @@ int reverse(int x)
 	return result;
 }
 
-//leetcode problem function begin
+//leetcode problem function end
 
 
-int main(){
-	
-	int ans = reverse(123);
-	cout<<ans;
-	cout<<123;
-	
-	return 0;
-	
-		
-}
